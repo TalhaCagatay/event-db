@@ -1,15 +1,15 @@
 {
   "events": [
     {
-      "Type": 4,
+      "Type": "GOLD",
       "Value": 50
     },
     {
-      "Type": 0,
+      "Type": "FAN",
       "Value": 1
     },
     {
-      "Type": 1,
+      "Type": "MAGNIFYINGGLASS",
       "Value": 1
     }
   ]
